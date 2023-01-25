@@ -9,7 +9,6 @@
 
 - 👨‍💻 Meu Linkedin [pedrohmcruz.dev](https://www.linkedin.com/in/pedrohmcruz/)
 
-<br>
 
 ## 🛠 &nbsp;Tech Stack
 
