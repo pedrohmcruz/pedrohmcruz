@@ -22,12 +22,6 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohmcruz&layout=compact&theme=black" alt="pedrohmcruz's most languages"/>
-</p>
-
 
 ## Contact
 
