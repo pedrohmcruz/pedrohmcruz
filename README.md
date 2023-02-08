@@ -38,6 +38,6 @@
 </p>
 <br>
 <p align="center">
-<img src ="https://visitcount.itsvg.in/api?id=pedrohmcruz&icon=2&color=blue">
+<img src ="https://visitcount.itsvg.in/api?id=pedrohmcruz&icon=2&color=5">
 </p>
 
