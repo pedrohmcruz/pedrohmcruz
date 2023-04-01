@@ -1,7 +1,6 @@
 <h1>Opa! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Pedro</h1>
 
 
-- 🔥 Programador Iniciante 
 
 - 🔭 Buscando a primeira oportunidade de emprego
 
