@@ -4,7 +4,7 @@
 
 - 🔭 Buscando a primeira oportunidade de emprego
 
-- ▶️ Desenvolvendo projetos com HTML, CSS, JavaScript, Node.js e MongoDB
+- ▶️ Desenvolvendo projetos com HTML, CSS, JavaScript, React, Node.js e MongoDB
 
 - 👨‍💻 Meu Linkedin [pedrohmcruz.dev](https://www.linkedin.com/in/pedrohmcruz/)
 
