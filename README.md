@@ -4,7 +4,7 @@
 
 - 🔭 Buscando a primeira oportunidade de emprego
 
-- </> Desenvolvendo projetos com HTML, CSS, JavaScript e React
+- <strong></></strong> Desenvolvendo projetos com HTML, CSS, JavaScript e React
 
 - 👨‍💻 Meu Linkedin [pedrohmcruz.dev](https://www.linkedin.com/in/pedrohmcruz/)
 
